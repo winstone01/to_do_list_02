@@ -1,4 +1,4 @@
-# To Do List — Vol 2.0.1 (2026)
+# To Do List — Vol 2.0.1 
 
 A clean, UI-focused **To Do List** built with vanilla HTML, CSS, and JavaScript.  
 Add tasks, edit them, delete them, and mark them complete — with a live “pending tasks” counter and simple input validation.
@@ -25,7 +25,4 @@ Add tasks, edit them, delete them, and mark them complete — with a live “pen
 
 ---
 
-## Getting Started
 
-### 1) Download / Clone
-```bash
